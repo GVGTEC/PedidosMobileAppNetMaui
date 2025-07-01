@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\pages\\produtos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\pages\\produtos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\pages\\produtos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\pages\\produtos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\pages\\selecionamesa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\pages\\selecionamesa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\models\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\models\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\pages\\itenspedido.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\pages\\itenspedido.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\pages\\itenspedido.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\pages\\itenspedido.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidoItem.cs",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\PedidoItem.cs",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\Models\\PedidoItem.cs",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\PedidoItem.cs",
+              "RelativeToolTip": "PedidosMobileApp\\Models\\PedidoItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:05:09.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItensPedido.xaml",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\ItensPedido.xaml",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\ItensPedido.xaml",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\ItensPedido.xaml",
+              "RelativeToolTip": "PedidosMobileApp\\Pages\\ItensPedido.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-29T15:56:49.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ItensPedido.xaml.cs",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\ItensPedido.xaml.cs",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\ItensPedido.xaml.cs",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\ItensPedido.xaml.cs",
+              "RelativeToolTip": "PedidosMobileApp\\Pages\\ItensPedido.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:55:04.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\App.xaml",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\App.xaml",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\App.xaml",
+              "RelativeToolTip": "PedidosMobileApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-01T10:50:15.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\App.xaml.cs",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\App.xaml.cs",
+              "RelativeToolTip": "PedidosMobileApp\\App.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:07:30.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produtos.xaml",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\Produtos.xaml",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\Produtos.xaml",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\Produtos.xaml",
+              "RelativeToolTip": "PedidosMobileApp\\Pages\\Produtos.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-30T02:54:51.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produtos.xaml.cs",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\Produtos.xaml.cs",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\Produtos.xaml.cs",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\Produtos.xaml.cs",
+              "RelativeToolTip": "PedidosMobileApp\\Pages\\Produtos.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvzEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T22:44:54.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SelecionaMesa.xaml.cs",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\SelecionaMesa.xaml.cs",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\SelecionaMesa.xaml.cs",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\SelecionaMesa.xaml.cs",
+              "RelativeToolTip": "PedidosMobileApp\\Pages\\SelecionaMesa.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T15:56:11.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\MainPage.xaml",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\MainPage.xaml",
+              "RelativeToolTip": "PedidosMobileApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-30T00:07:09.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\AppShell.xaml",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\AppShell.xaml",
+              "RelativeToolTip": "PedidosMobileApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-30T00:07:39.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\MauiProgram.cs",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\MauiProgram.cs",
+              "RelativeToolTip": "PedidosMobileApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T00:07:56.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

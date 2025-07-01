@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PedidosMobileApp.Pages.Cardapio"
+             Title="Cardapio">
+
+    <VerticalStackLayout>
+        <Frame Margin="10">
+            <SearchBar x:Name="txtPesquisar" Placeholder="Pesquisar Cardápio" />
+        </Frame>
+
+        <Grid RowDefinitions="*, *, *, *"
+              ColumnDefinitions="*, *, *"
+              RowSpacing="10" ColumnSpacing="10" Padding="10"
+              BackgroundColor="Aqua">
+
+            <!---
+            <Button Grid.Row="0" Grid.Column="0" BackgroundColor="Beige" />
+            <Button Grid.Row="0" Grid.Column="1" BackgroundColor="Beige" />
+            <Button Grid.Row="0" Grid.Column="2" BackgroundColor="Beige" />
+            -->
+
+            <Button Grid.Row="1" Grid.Column="0" BackgroundColor="Beige" />
+            <Button Grid.Row="1" Grid.Column="1" BackgroundColor="Beige" />
+            <Button Grid.Row="1" Grid.Column="2" BackgroundColor="Beige" />
+
+            <Button Grid.Row="2" Grid.Column="0" BackgroundColor="Beige" />
+            <Button Grid.Row="2" Grid.Column="1" BackgroundColor="Beige" />
+            <Button Grid.Row="2" Grid.Column="2" BackgroundColor="Beige" />
+
+            <Button Grid.Row="3" Grid.Column="0" BackgroundColor="Beige" />
+            <Button Grid.Row="3" Grid.Column="1" BackgroundColor="Beige" />
+            <Button Grid.Row="3" Grid.Column="2" BackgroundColor="Beige" />
+
+            <Button Grid.Row="4" Grid.Column="0" BackgroundColor="Beige" />
+            <Button Grid.Row="4" Grid.Column="1" BackgroundColor="Beige" />
+            <Button Grid.Row="4" Grid.Column="2" BackgroundColor="Beige" />
+        </Grid>
+
+    </VerticalStackLayout>
+</ContentPage>
