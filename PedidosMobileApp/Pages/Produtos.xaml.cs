@@ -55,4 +55,14 @@ public partial class Produtos : ContentPage
 
         lst_produtos.ItemsSource = x;
     }
+
+    private async void lst_produtos_ItemSelected(object sender, SelectedItemChangedEventArgs e)
+    {
+        // Clicou sobre a descrição do produto na lista de produtos
+       // Se confirmar insere o produto em ItensPedido
+
+        Produto p = e.SelectedItem as Produto;
+
+        bool confirma = await DisplayAlert("Confirmação",$"Incluir {p.Descricao} ?" ,"Sim", "Não");
+    }
 }

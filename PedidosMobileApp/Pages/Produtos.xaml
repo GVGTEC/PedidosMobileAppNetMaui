@@ -20,12 +20,11 @@
                          IsRefreshing="False"
                          Refreshing="ref_carregando_Refreshing" />
                         -->
-            <ListView x:Name="lst_produtos" 
-                      >
+            <ListView x:Name="lst_produtos" ItemSelected="lst_produtos_ItemSelected">
                 <ListView.Header>
                     <Grid Margin="10" ColumnDefinitions="3*, *, *, *">
                         <Label Grid.Column="0" Text="Produto" />
-                        <Label Grid.Column="1" Text="Qnt" />
+                        <Label Grid.Column="1" Text="Qtd" />
                         <Label Grid.Column="2" Text="Preço" />
                         <Label Grid.Column="3" Text="Total" />
                     </Grid>

@@ -299,3 +299,4 @@ C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-macc
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\PedidosMobileApp.pdb
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\PedidosMobileApp.genruntimeconfig.cache
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\PedidosMobileApp.dll
+C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\PedidosMobileApp.sourcelink.json

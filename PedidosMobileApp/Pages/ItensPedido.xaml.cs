@@ -25,7 +25,6 @@ public partial class ItensPedido : ContentPage
     {
 
     }
-
     protected async override void OnAppearing()
     {
         if (PropriedadesApp.listaPedidoItens.Count == 0)
@@ -48,4 +47,16 @@ public partial class ItensPedido : ContentPage
         lst_pedido_itens.ItemsSource = PropriedadesApp.listaPedidoItens;
     }
 
+    public double TotalPedido()
+    {
+        //SOMA O TOTAL DOS ITENS DO PEDIDO
+        var TotalPedido = lista_Pedido_Itens.Sum(x => x.PrecoTotal);
+
+        return TotalPedido;
+    }
+
+    private void MenuItem_Clicked(object sender, EventArgs e)
+    {
+
+    }
 }
