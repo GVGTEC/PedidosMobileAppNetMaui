@@ -9,9 +9,10 @@ public partial class SelecionaMesa : ContentPage
 
     private void Button_Clicked(object sender, EventArgs e)
     {
-		//App.Current.MainPage = new Pedido();
+        //App.Current.MainPage = new Pedido();
         //App.Current.MainPage = new ItensPedido();
         //App.Current.MainPage = new Cardapio();
-        App.Current.MainPage = new Produtos();
+        //App.Current.MainPage = new Produtos();
+        App.Current.MainPage = new Teste();
     }
 }

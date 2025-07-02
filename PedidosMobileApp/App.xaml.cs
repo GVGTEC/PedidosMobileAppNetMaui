@@ -59,6 +59,45 @@ namespace PedidosMobileApp
                 //PrecoTotal = 9
             }
         };
+
+        public List<Models.Cardapio> listaCardapio = new List<Models.Cardapio>()
+        {
+            new Models.Cardapio()
+            {
+                Id = 1,
+                Descricao = "VIRADO A PAULISTA",
+                Preco = 10
+            },
+
+            new Models.Cardapio()
+            {
+                Id = 2,
+                Descricao = "BIFE A ROLE",
+                Preco = 10
+            },
+
+            new Models.Cardapio()
+            {
+                Id = 3,
+                Descricao = "FEIJOADA",
+                Preco = 10
+            },
+
+            new Models.Cardapio()
+            {
+                Id = 4,
+                Descricao = "MACARRÃO COM FRANGO",
+                Preco = 10
+            },
+
+            new Models.Cardapio()
+            {
+                Id = 5,
+                Descricao = "FILE DE PEIXE",
+                Preco = 10
+            }
+        };
+
         public App()
         {
             InitializeComponent();
