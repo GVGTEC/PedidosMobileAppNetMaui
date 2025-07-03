@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PedidosMobileApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+668be0d79e31f0fb866277f31e59d3e0bd5edc8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+090f3437bdfb91f450ba165e5a8e3b16fc2c7d76")]
 [assembly: System.Reflection.AssemblyProductAttribute("PedidosMobileApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PedidosMobileApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4,13 +4,20 @@
              x:Class="PedidosMobileApp.Pages.ItensPedido"
              Title="Itens Pedido">
 
+    <!-- SUBSTITUI O TOOLBAR PELOS BOTÕES ABAIXO (SÓ DESABILIAR SE QUISER VOLTAR COM TOOLBAR
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="ItensPedido" />
         <ToolbarItem Text="Cardapio" Clicked="ToolbarItem_Clicked" />
         <ToolbarItem Text="Produtos" Clicked="ToolbarItem_Clicked_1" />
     </ContentPage.ToolbarItems>
-
+    -->
+    
     <VerticalStackLayout>
+        <HorizontalStackLayout Spacing="9" Margin="9">
+            <Button Text="Cardapio" HorizontalOptions="Start" Clicked="Button_Clicked_1" />
+            <Button Text="Produtos" HorizontalOptions="End" Clicked="Button_Clicked_2"/>
+        </HorizontalStackLayout>
+        
         <ListView x:Name="lst_pedido_itens" 
                       >
             <ListView.Header>

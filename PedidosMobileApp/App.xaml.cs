@@ -112,14 +112,17 @@ namespace PedidosMobileApp
 
             if (usuario_logado == null)
             {
-                //MainPage = new AppShell();
+                MainPage = new AppShell();
                 //MainPage = new Login();  // NÃO ESTÁ LOGADO
-                MainPage = new SelecionaMesa();  // NÃO ESTÁ LOGADO
+                //MainPage = new SelecionaMesa();  // NÃO ESTÁ LOGADO
+                //MainPage = new MainPage();  // NÃO ESTÁ LOGADO
             }
             else
             {
+                MainPage = new AppShell();
                 //MainPage = new Pedido(); // ESTÁ LOGADO
-                MainPage = new SelecionaMesa();  // ESTÁ LOGADO
+                //MainPage = new SelecionaMesa();  // ESTÁ LOGADO
+                //MainPage = new MainPage();  // NÃO ESTÁ LOGADO
             }                        
         }
 

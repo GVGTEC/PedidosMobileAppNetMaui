@@ -1,24 +1,21 @@
-﻿namespace PedidosMobileApp
+﻿using Microsoft.Maui.Storage;
+using PedidosMobileApp.Models;
+using PedidosMobileApp.Pages;
+using System.Data.SqlTypes;
+
+namespace PedidosMobileApp;
+public partial class MainPage : ContentPage
 {
-    public partial class MainPage : ContentPage
+    public MainPage()
     {
-        int count = 0;
+        InitializeComponent();
 
-        public MainPage()
-        {
-            InitializeComponent();
-        }
-        private void OnCounterClicked(object sender, EventArgs e)
-        {
-            count++;
-
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
-
-            SemanticScreenReader.Announce(CounterBtn.Text);
-        }
+        Carrega();
     }
 
+    public async void Carrega()
+    {
+        //await Navigation.PushAsync(new Login());
+        await Navigation.PushAsync(new SelecionaMesa());
+    }
 }

@@ -1,0 +1,97 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PedidosMobileApp
+build_property.ProjectDir = C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/Pages/Cardapio.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.Pages.Cardapio.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Cardapio.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Cardapio.xaml
+
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/Pages/ItensPedido.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.Pages.ItensPedido.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ItensPedido.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ItensPedido.xaml
+
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/Pages/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.Pages.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Login.xaml
+
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/Pages/Pedido.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.Pages.Pedido.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Pedido.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Pedido.xaml
+
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/Pages/Produtos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.Pages.Produtos.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Produtos.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Produtos.xaml
+
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/Pages/Protegida.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.Pages.Protegida.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Protegida.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Protegida.xaml
+
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/Pages/SelecionaMesa.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.Pages.SelecionaMesa.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SelecionaMesa.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SelecionaMesa.xaml
+
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/Teste.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.Teste.xaml
+build_metadata.AdditionalFiles.TargetPath = Teste.xaml
+build_metadata.AdditionalFiles.RelativePath = Teste.xaml

@@ -16,14 +16,14 @@ public partial class ItensPedido : ContentPage
 
         PropriedadesApp = (App)Application.Current;
     }
-    private void ToolbarItem_Clicked(object sender, EventArgs e)
+    private async void ToolbarItem_Clicked(object sender, EventArgs e)
     {
-
+        await Navigation.PushAsync(new Cardapio());
     }
 
-    private void ToolbarItem_Clicked_1(object sender, EventArgs e)
+    private async void ToolbarItem_Clicked_1(object sender, EventArgs e)
     {
-
+        await Navigation.PushAsync(new Produtos());
     }
     protected async override void OnAppearing()
     {
@@ -58,5 +58,20 @@ public partial class ItensPedido : ContentPage
     private void MenuItem_Clicked(object sender, EventArgs e)
     {
 
+    }
+
+    private void Button_Clicked(object sender, EventArgs e)
+    {
+
+    }
+
+    private async void Button_Clicked_1(object sender, EventArgs e)
+    {
+        await Navigation.PushAsync(new Cardapio());
+    }
+
+    private async void Button_Clicked_2(object sender, EventArgs e)
+    {
+        await Navigation.PushAsync(new Produtos());
     }
 }
