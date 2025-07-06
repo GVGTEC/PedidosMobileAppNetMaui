@@ -15,9 +15,10 @@
     <VerticalStackLayout>
         <HorizontalStackLayout Spacing="9" Margin="9">
             <Button Text="Cardapio" HorizontalOptions="Start" Clicked="Button_Clicked_1" />
-            <Button Text="Produtos" HorizontalOptions="End" Clicked="Button_Clicked_2"/>
+            <Button Text="Produtos" HorizontalOptions="Center" Clicked="Button_Clicked_2"/>
+            <Button x:Name="lblTotalPedido" />
         </HorizontalStackLayout>
-        
+
         <ListView x:Name="lst_pedido_itens" 
                       >
             <ListView.Header>

@@ -21,6 +21,18 @@ public partial class ItensPedido : ContentPage
         await Navigation.PushAsync(new Cardapio());
     }
 
+    public double ExibirTotalPedido()
+    {
+        double total = PropriedadesApp.listaPedidoItens.Sum(x => x.PrecoTotal * 100);
+
+        lblTotalPedido.Text = "TOTAL R$ " +  total.ToString("c");
+
+        //DisplayAlert(".", total.ToString(), "OK");
+
+        return total;
+    }
+            
+
     private async void ToolbarItem_Clicked_1(object sender, EventArgs e)
     {
         await Navigation.PushAsync(new Produtos());
@@ -35,6 +47,8 @@ public partial class ItensPedido : ContentPage
             {
                 lista_Pedido_Itens.Add(p);
             }
+
+            ExibirTotalPedido();
         }
         else
         {
@@ -42,9 +56,14 @@ public partial class ItensPedido : ContentPage
             {
                 //DisplayAlert("Aviso",item.Descricao,"OK");
             }
+
+            ExibirTotalPedido();
         }
 
         lst_pedido_itens.ItemsSource = PropriedadesApp.listaPedidoItens;
+
+
+        ExibirTotalPedido();
     }
 
     public double TotalPedido()

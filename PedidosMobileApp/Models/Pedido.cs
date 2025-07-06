@@ -13,6 +13,7 @@ namespace PedidosMobileApp.Models
         public DateTime DataEmissao { get; set; }
         public int QuantasPessoas { get; set; }
         public int FormaPagamento { get; set; }
+        public double Total { get; set; }
         public string Flag { get; set; }
     }
 }
