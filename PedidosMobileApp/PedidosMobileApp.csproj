@@ -63,31 +63,52 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Compile Update="Pages\ItensPedido.xaml.cs">
-	    <DependentUpon>ItensPedido.xaml</DependentUpon>
+	  <Compile Update="Pages\frmCardapio.xaml.cs">
+	    <DependentUpon>frmCardapio.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Pages\frmItensPedido.xaml.cs">
+	    <DependentUpon>frmItensPedido.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Pages\frmLogin.xaml.cs">
+	    <DependentUpon>frmLogin.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Pages\frmPedido.xaml.cs">
+	    <DependentUpon>frmPedido.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Pages\frmProdutos.xaml.cs">
+	    <DependentUpon>frmProdutos.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Pages\frmProtegida.xaml.cs">
+	    <DependentUpon>frmProtegida.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="Pages\frmSelecionaMesa.xaml.cs">
+	    <DependentUpon>frmSelecionaMesa.xaml</DependentUpon>
 	  </Compile>
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="Pages\Cardapio.xaml">
+	  <MauiXaml Update="Pages\frmCardapio.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Pages\ItensPedido.xaml">
+	  <MauiXaml Update="Pages\frmItensPedido.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Pages\Login.xaml">
+	  <MauiXaml Update="Pages\frmLogin.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Pages\Pedido.xaml">
+	  <MauiXaml Update="Pages\frmPedido.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Pages\Produtos.xaml">
+	  <MauiXaml Update="Pages\frmProdutos.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Pages\Protegida.xaml">
+	  <MauiXaml Update="Pages\frmProtegida.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="Pages\SelecionaMesa.xaml">
+	  <MauiXaml Update="Pages\frmSelecionaMesa.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Pages\TipoAtendimento.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

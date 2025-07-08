@@ -61,6 +61,9 @@
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\adicionar.scale-100.png">
+      <PackagePath>adicionar.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
@@ -216,6 +219,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subtrair.scale-100.png">
+      <PackagePath>subtrair.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PedidosMobileApp.deps.json">
       <PackagePath>PedidosMobileApp.deps.json</PackagePath>
@@ -432,6 +438,18 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gilberto\.nuget\packages\microsoft.windowsappsdk\1.5.240802000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\Mobile\Microsoft.Maui.Controls.HotReload.Forms.dll">
+      <PackagePath>Microsoft.Maui.Controls.HotReload.Forms.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\Mobile\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll">
+      <PackagePath>Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\Mobile\Microsoft.VisualStudio.DesignTools.TapContract.dll">
+      <PackagePath>Microsoft.VisualStudio.DesignTools.TapContract.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\Mobile\Microsoft.VisualStudio.DesignTools.XamlTapContract.dll">
+      <PackagePath>Microsoft.VisualStudio.DesignTools.XamlTapContract.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gilberto\.nuget\packages\microsoft.maui.controls.compatibility\8.0.100\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

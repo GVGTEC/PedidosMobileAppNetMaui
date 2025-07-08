@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PedidosMobileApp.Pages.ItensPedido"
+             Title="Itens Pedido">
+
+    <!-- SUBSTITUI O TOOLBAR PELOS BOTÕES ABAIXO (SÓ DESABILIAR SE QUISER VOLTAR COM TOOLBAR
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="ItensPedido" />
+        <ToolbarItem Text="Cardapio" Clicked="ToolbarItem_Clicked" />
+        <ToolbarItem Text="Produtos" Clicked="ToolbarItem_Clicked_1" />
+    </ContentPage.ToolbarItems>
+    -->
+    
+    <VerticalStackLayout>
+        <HorizontalStackLayout Spacing="9" Margin="9">
+            <Button Text="Cardapio" HorizontalOptions="Start" Clicked="Button_Clicked_1" />
+            <Button Text="Produtos" HorizontalOptions="Center" Clicked="Button_Clicked_2"/>
+            <Button x:Name="lblTotalPedido" />
+        </HorizontalStackLayout>
+
+        <ListView x:Name="lst_pedido_itens">
+            <ListView.Header>
+                <Grid Margin="10" ColumnDefinitions="3*, *, *, *, *, *, *">
+                    <Label Grid.Column="0" Text="Produto" />
+                    <Label Grid.Column="1" Text="Qtd" />
+                    <Label Grid.Column="2" Text="Preço" />
+                    <Label Grid.Column="3" Text="Total" />
+                </Grid>
+            </ListView.Header>
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem Text="Remover" Clicked="MenuItem_Clicked" />
+                        </ViewCell.ContextActions>
+                        <Grid Margin="10" ColumnDefinitions="3*, *, *, *, *, *, *">
+                            <Label Grid.Row="0" Grid.Column="0" Text="{Binding Descricao}" />
+                            <Label Grid.Row="0" Grid.Column="1" Text="{Binding Quantidade}" />
+                            <Label Grid.Row="0" Grid.Column="2" Text="{Binding PrecoUnitario, StringFormat='{}{0:c}'}" />
+                            <Label Grid.Row="0" Grid.Column="3" Text="{Binding PrecoTotal, StringFormat='{}{0:c}'}" />
+
+                            <!--                            
+                            <Stepper Grid.Row="0" Grid.Column="4"
+                                     x:Name="stpItemPedido"
+                                     Minimum="0"
+                                     Increment="1"/>
+                            -->
+                            
+                            <Button x:Name="btnSubtrairQuantidade" Grid.Row="0" Grid.Column="4" ImageSource="subtrair.png" Background="White" Clicked="btnSubtrairQuantidade_Clicked"/>
+                            <Button x:Name="btnAdicionarQuantidade" Grid.Row="0" Grid.Column="5" ImageSource="adicionar.png" Background="White" Clicked="btnAdicionarQuantidade_Clicked" />
+                            <Button x:Name="btnExcluirItemPedido" Grid.Row="0" Grid.Column="6" ImageSource="delete.png" Background="White" Clicked="btnExcluirItemPedido_Clicked" />
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </VerticalStackLayout>
+
+</ContentPage>
+
+<!-- EXIBE TODOS OS ITENS DO PEDIDO E O TOTAL DO PEDIDO-->
+<!-- DANDO OPÇÃO DE ALTERAR OU EXCLUIR O ITEM-->
+    
