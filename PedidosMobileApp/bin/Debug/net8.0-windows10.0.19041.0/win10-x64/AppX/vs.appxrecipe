@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-07-07T20:33:22.663</Modified>
+      <Modified>2025-07-08T21:31:21.783</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-07-06T18:29:08.945</Modified>
+      <Modified>2025-07-08T21:29:57.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PedidosMobileApp.runtimeconfig.json">
       <PackagePath>PedidosMobileApp.runtimeconfig.json</PackagePath>
-      <Modified>2025-07-03T01:24:43.220</Modified>
+      <Modified>2025-07-08T21:29:57.097</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PedidosMobileApp.dll">
       <PackagePath>PedidosMobileApp.dll</PackagePath>
-      <Modified>2025-07-07T20:33:21.781</Modified>
+      <Modified>2025-07-08T21:31:20.266</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PedidosMobileApp.exe</PackagePath>
-      <Modified>2025-07-07T20:33:21.792</Modified>
+      <Modified>2025-07-08T21:31:20.329</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -55,23 +55,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-07-03T01:24:37.119</Modified>
+      <Modified>2025-07-07T23:36:46.153</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-07-03T01:24:37.146</Modified>
+      <Modified>2025-07-07T23:36:46.188</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-07-03T01:24:37.179</Modified>
+      <Modified>2025-07-07T23:36:46.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-07-03T01:24:37.251</Modified>
+      <Modified>2025-07-07T23:36:46.300</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-07-03T01:24:37.515</Modified>
+      <Modified>2025-07-07T23:36:46.536</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -83,223 +83,223 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\adicionar.scale-100.png">
       <PackagePath>adicionar.scale-100.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.359</Modified>
+      <Modified>2025-07-07T23:36:48.266</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-07-06T18:28:25.391</Modified>
+      <Modified>2025-07-07T23:36:48.289</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.366</Modified>
+      <Modified>2025-07-07T23:36:48.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.365</Modified>
+      <Modified>2025-07-07T23:36:48.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.365</Modified>
+      <Modified>2025-07-07T23:36:48.268</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.364</Modified>
+      <Modified>2025-07-07T23:36:48.268</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.363</Modified>
+      <Modified>2025-07-07T23:36:48.267</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.382</Modified>
+      <Modified>2025-07-07T23:36:48.282</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.381</Modified>
+      <Modified>2025-07-07T23:36:48.281</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.379</Modified>
+      <Modified>2025-07-07T23:36:48.279</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.380</Modified>
+      <Modified>2025-07-07T23:36:48.281</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.380</Modified>
+      <Modified>2025-07-07T23:36:48.280</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.386</Modified>
+      <Modified>2025-07-07T23:36:48.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.385</Modified>
+      <Modified>2025-07-07T23:36:48.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.383</Modified>
+      <Modified>2025-07-07T23:36:48.282</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.385</Modified>
+      <Modified>2025-07-07T23:36:48.283</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.384</Modified>
+      <Modified>2025-07-07T23:36:48.283</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.390</Modified>
+      <Modified>2025-07-07T23:36:48.289</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.390</Modified>
+      <Modified>2025-07-07T23:36:48.289</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.390</Modified>
+      <Modified>2025-07-07T23:36:48.288</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.389</Modified>
+      <Modified>2025-07-07T23:36:48.288</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.389</Modified>
+      <Modified>2025-07-07T23:36:48.287</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.388</Modified>
+      <Modified>2025-07-07T23:36:48.287</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.388</Modified>
+      <Modified>2025-07-07T23:36:48.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.386</Modified>
+      <Modified>2025-07-07T23:36:48.285</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.388</Modified>
+      <Modified>2025-07-07T23:36:48.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.387</Modified>
+      <Modified>2025-07-07T23:36:48.285</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.372</Modified>
+      <Modified>2025-07-07T23:36:48.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.372</Modified>
+      <Modified>2025-07-07T23:36:48.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.371</Modified>
+      <Modified>2025-07-07T23:36:48.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.371</Modified>
+      <Modified>2025-07-07T23:36:48.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.370</Modified>
+      <Modified>2025-07-07T23:36:48.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.374</Modified>
+      <Modified>2025-07-07T23:36:48.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.374</Modified>
+      <Modified>2025-07-07T23:36:48.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.373</Modified>
+      <Modified>2025-07-07T23:36:48.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.373</Modified>
+      <Modified>2025-07-07T23:36:48.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.372</Modified>
+      <Modified>2025-07-07T23:36:48.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.378</Modified>
+      <Modified>2025-07-07T23:36:48.279</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.377</Modified>
+      <Modified>2025-07-07T23:36:48.279</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.376</Modified>
+      <Modified>2025-07-07T23:36:48.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.375</Modified>
+      <Modified>2025-07-07T23:36:48.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.375</Modified>
+      <Modified>2025-07-07T23:36:48.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.369</Modified>
+      <Modified>2025-07-07T23:36:48.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.369</Modified>
+      <Modified>2025-07-07T23:36:48.271</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.368</Modified>
+      <Modified>2025-07-07T23:36:48.271</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.367</Modified>
+      <Modified>2025-07-07T23:36:48.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.367</Modified>
+      <Modified>2025-07-07T23:36:48.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\delete.scale-100.png">
       <PackagePath>delete.scale-100.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.358</Modified>
+      <Modified>2025-07-07T23:36:48.267</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.362</Modified>
+      <Modified>2025-07-07T23:36:48.292</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.362</Modified>
+      <Modified>2025-07-07T23:36:48.291</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.361</Modified>
+      <Modified>2025-07-07T23:36:48.291</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.360</Modified>
+      <Modified>2025-07-07T23:36:48.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.360</Modified>
+      <Modified>2025-07-07T23:36:48.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\subtrair.scale-100.png">
       <PackagePath>subtrair.scale-100.png</PackagePath>
-      <Modified>2025-07-06T18:28:25.358</Modified>
+      <Modified>2025-07-07T23:36:48.266</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PedidosMobileApp.deps.json">
       <PackagePath>PedidosMobileApp.deps.json</PackagePath>
-      <Modified>2025-07-06T18:12:37.787</Modified>
+      <Modified>2025-07-08T21:29:56.988</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gilberto\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

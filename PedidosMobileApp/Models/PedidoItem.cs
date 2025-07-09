@@ -16,5 +16,7 @@ namespace PedidosMobileApp.Models
         public double Quantidade { get; set; }
         public double PrecoUnitario { get; set; }
         public double PrecoTotal { get => Quantidade * PrecoUnitario; }
+        public bool CozinhaEnviado { get; set; }
+        public bool CozinhaProduzido { get; set; }
     }
 }

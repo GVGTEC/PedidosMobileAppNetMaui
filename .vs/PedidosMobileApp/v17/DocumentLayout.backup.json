@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\pedidosmobileapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\pedidosmobileapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\models\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\models\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\models\\clientetelefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\models\\clientetelefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\pages\\frmitenspedido.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +27,12 @@
       "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\pages\\frmlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\models\\clientetelefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\models\\clientetelefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\models\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|solutionrelative:pedidosmobileapp\\models\\pedidoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65679E1D-B054-4827-BB84-8729AB4991F6}|PedidosMobileApp\\PedidosMobileApp.csproj|c:\\1-projetos\\1-sistemas\\pedidosmobileapp\\pedidosmobileapp\\pages\\frmpedido.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -94,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,41 +114,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PedidosMobileApp",
-              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\PedidosMobileApp.csproj",
-              "RelativeDocumentMoniker": "PedidosMobileApp\\PedidosMobileApp.csproj",
-              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\PedidosMobileApp.csproj",
-              "RelativeToolTip": "PedidosMobileApp\\PedidosMobileApp.csproj",
+              "DocumentIndex": 2,
+              "Title": "frmItensPedido.xaml.cs",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmItensPedido.xaml.cs",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\frmItensPedido.xaml.cs",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmItensPedido.xaml.cs",
+              "RelativeToolTip": "PedidosMobileApp\\Pages\\frmItensPedido.xaml.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:55:04.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmItensPedido.xaml",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmItensPedido.xaml",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\frmItensPedido.xaml",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmItensPedido.xaml",
+              "RelativeToolTip": "PedidosMobileApp\\Pages\\frmItensPedido.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-29T15:56:49.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "splash.svg",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Resources\\Splash\\splash.svg",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\Resources\\Splash\\splash.svg",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Resources\\Splash\\splash.svg",
+              "RelativeToolTip": "PedidosMobileApp\\Resources\\Splash\\splash.svg",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-07T23:33:12.549Z",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-07-06T18:08:04.03Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClienteTelefone.cs",
-              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\ClienteTelefone.cs",
-              "RelativeDocumentMoniker": "PedidosMobileApp\\Models\\ClienteTelefone.cs",
-              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\ClienteTelefone.cs",
-              "RelativeToolTip": "PedidosMobileApp\\Models\\ClienteTelefone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T17:47:52.469Z",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\MainPage.xaml",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\MainPage.xaml",
+              "RelativeToolTip": "PedidosMobileApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-30T00:07:09.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "PedidosMobileApp\\Models\\Cliente.cs",
-              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\Cliente.cs",
-              "RelativeToolTip": "PedidosMobileApp\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "frmProdutos.xaml",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmProdutos.xaml",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\frmProdutos.xaml",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmProdutos.xaml",
+              "RelativeToolTip": "PedidosMobileApp\\Pages\\frmProdutos.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-30T02:54:51.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PedidoItem.cs",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\PedidoItem.cs",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\Models\\PedidoItem.cs",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\PedidoItem.cs",
+              "RelativeToolTip": "PedidosMobileApp\\Models\\PedidoItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T17:46:37.654Z",
+              "WhenOpened": "2025-07-01T11:05:09.735Z",
               "EditorCaption": ""
             },
             {
@@ -170,72 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmItensPedido.xaml.cs",
-              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmItensPedido.xaml.cs",
-              "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\frmItensPedido.xaml.cs",
-              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmItensPedido.xaml.cs",
-              "RelativeToolTip": "PedidosMobileApp\\Pages\\frmItensPedido.xaml.cs",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAcwHEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T10:55:04.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmItensPedido.xaml",
-              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmItensPedido.xaml",
-              "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\frmItensPedido.xaml",
-              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmItensPedido.xaml",
-              "RelativeToolTip": "PedidosMobileApp\\Pages\\frmItensPedido.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-29T15:56:49.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "splash.svg",
-              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Resources\\Splash\\splash.svg",
-              "RelativeDocumentMoniker": "PedidosMobileApp\\Resources\\Splash\\splash.svg",
-              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Resources\\Splash\\splash.svg",
-              "RelativeToolTip": "PedidosMobileApp\\Resources\\Splash\\splash.svg",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
-              "WhenOpened": "2025-07-06T18:08:04.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\MainPage.xaml",
-              "RelativeDocumentMoniker": "PedidosMobileApp\\MainPage.xaml",
-              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\MainPage.xaml",
-              "RelativeToolTip": "PedidosMobileApp\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-30T00:07:09.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmProdutos.xaml",
-              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmProdutos.xaml",
-              "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\frmProdutos.xaml",
-              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmProdutos.xaml",
-              "RelativeToolTip": "PedidosMobileApp\\Pages\\frmProdutos.xaml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-30T02:54:51.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "frmLogin.xaml.cs",
               "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmLogin.xaml.cs",
               "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\frmLogin.xaml.cs",
@@ -248,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "frmLogin.xaml",
               "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmLogin.xaml",
               "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\frmLogin.xaml",
@@ -261,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\AppShell.xaml",
               "RelativeDocumentMoniker": "PedidosMobileApp\\AppShell.xaml",
@@ -274,7 +244,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
+              "Title": "ClienteTelefone.cs",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\ClienteTelefone.cs",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\Models\\ClienteTelefone.cs",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\ClienteTelefone.cs",
+              "RelativeToolTip": "PedidosMobileApp\\Models\\ClienteTelefone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:47:52.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\App.xaml",
               "RelativeDocumentMoniker": "PedidosMobileApp\\App.xaml",
@@ -287,7 +270,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "PedidosMobileApp\\Models\\Cliente.cs",
+              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\Cliente.cs",
+              "RelativeToolTip": "PedidosMobileApp\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:46:37.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "frmSelecionaMesa.xaml.cs",
               "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmSelecionaMesa.xaml.cs",
               "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\frmSelecionaMesa.xaml.cs",
@@ -301,19 +297,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PedidoItem.cs",
-              "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\PedidoItem.cs",
-              "RelativeDocumentMoniker": "PedidosMobileApp\\Models\\PedidoItem.cs",
-              "ToolTip": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Models\\PedidoItem.cs",
-              "RelativeToolTip": "PedidosMobileApp\\Models\\PedidoItem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T11:05:09.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "frmPedido.xaml",
               "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmPedido.xaml",
               "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\frmPedido.xaml",
@@ -326,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "PedidosMobileApp\\MainPage.xaml.cs",
@@ -339,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "frmSelecionaMesa.xaml",
               "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\Pages\\frmSelecionaMesa.xaml",
               "RelativeDocumentMoniker": "PedidosMobileApp\\Pages\\frmSelecionaMesa.xaml",
@@ -352,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "PedidosMobileApp\\AppShell.xaml.cs",
@@ -365,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\App.xaml.cs",
               "RelativeDocumentMoniker": "PedidosMobileApp\\App.xaml.cs",
@@ -378,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\1-Projetos\\1-Sistemas\\PedidosMobileApp\\PedidosMobileApp\\MauiProgram.cs",
               "RelativeDocumentMoniker": "PedidosMobileApp\\MauiProgram.cs",

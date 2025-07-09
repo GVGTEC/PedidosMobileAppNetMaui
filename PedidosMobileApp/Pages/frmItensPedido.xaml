@@ -21,7 +21,7 @@
 
         <ListView x:Name="lst_pedido_itens">
             <ListView.Header>
-                <Grid Margin="10" ColumnDefinitions="3*, *, *, *, *, *, *">
+                <Grid Margin="10" ColumnDefinitions="2*, *, *, *, *, *, *">
                     <Label Grid.Column="0" Text="Produto" />
                     <Label Grid.Column="1" Text="Qtd" />
                     <Label Grid.Column="2" Text="Preço" />
@@ -35,7 +35,7 @@
                         <ViewCell.ContextActions>
                             <MenuItem Text="Remover" Clicked="MenuItem_Clicked" />
                         </ViewCell.ContextActions>
-                        <Grid Margin="10" ColumnDefinitions="3*, *, *, *, *, *, *">
+                        <Grid Margin="10" ColumnDefinitions="2*, *, *, *, *, *, *">
                             <Label Grid.Row="0" Grid.Column="0" Text="{Binding Descricao}" />
                             <Label Grid.Row="0" Grid.Column="1" Text="{Binding Quantidade}" />
                             <Label Grid.Row="0" Grid.Column="2" Text="{Binding PrecoUnitario, StringFormat='{}{0:c}'}" />
