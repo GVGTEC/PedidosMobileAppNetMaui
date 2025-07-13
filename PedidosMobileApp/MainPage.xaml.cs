@@ -12,10 +12,11 @@ public partial class MainPage : ContentPage
 
         Carrega();
     }
-
     public async void Carrega()
     {
         //await Navigation.PushAsync(new Login());
         await Navigation.PushAsync(new SelecionaMesa());
+        //await Navigation.PushAsync(new frmNumeroComanda());
+        //await Navigation.PushAsync(new TipoAtendimento());  ESTA DEVER SER A PRIMEIRA TELA DO APP
     }
 }

@@ -96,6 +96,9 @@
 	  <MauiXaml Update="Pages\frmLogin.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Pages\frmNumeroComanda.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Pages\frmPedido.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

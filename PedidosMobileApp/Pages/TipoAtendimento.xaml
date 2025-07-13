@@ -3,7 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="PedidosMobileApp.Pages.TipoAtendimento"
              Title="TipoAtendimento">
-    <VerticalStackLayout>
+    <VerticalStackLayout
+        VerticalOptions="Center"
+        Padding="20"
+        Spacing="20">
+
         <Label 
             Text="SELECIONE UMA FORMA DE ATENDIMENTO"
             VerticalOptions="Center" 

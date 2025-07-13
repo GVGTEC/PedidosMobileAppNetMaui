@@ -54,6 +54,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.Pages.frm
 build_metadata.AdditionalFiles.TargetPath = Pages\frmLogin.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\frmLogin.xaml
 
+[C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/Pages/frmNumeroComanda.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.Pages.frmNumeroComanda.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\frmNumeroComanda.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\frmNumeroComanda.xaml
+
 [C:/1-Projetos/1-Sistemas/PedidosMobileApp/PedidosMobileApp/Pages/frmPedido.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PedidosMobileApp.Pages.frmPedido.xaml
