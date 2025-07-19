@@ -1,5 +1,8 @@
+//using Android.Graphics.Fonts;
+//using Android.PrintServices;
 using PedidosMobileApp.Models;
 using System.Collections.ObjectModel;
+//using Xamarin.Google.Crypto.Tink.Proto;
 
 namespace PedidosMobileApp.Pages;
 
@@ -123,7 +126,6 @@ public partial class ItensPedido : ContentPage
         await Navigation.PushAsync(new ItensPedido());
 
     }
-
     private async void btnAdicionarQuantidade_Clicked(object sender, EventArgs e)
     {
         try
@@ -172,6 +174,9 @@ public partial class ItensPedido : ContentPage
             DisplayAlert("ERRO",ex.Message,"Ok");
 
         }
+    }
 
+    public void ImprimirPedido()
+    {
     }
 }

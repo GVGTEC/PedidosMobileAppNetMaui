@@ -1,6 +1,4 @@
-using Microsoft.Maui.Storage;
 using PedidosMobileApp.Models;
-using System.Data.SqlTypes;
 
 namespace PedidosMobileApp.Pages;
 public partial class Login : ContentPage

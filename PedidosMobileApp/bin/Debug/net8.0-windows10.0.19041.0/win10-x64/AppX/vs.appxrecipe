@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-07-13T00:20:50.906</Modified>
+      <Modified>2025-07-13T00:50:06.366</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-07-13T00:20:50.734</Modified>
+      <Modified>2025-07-13T00:50:06.004</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PedidosMobileApp.runtimeconfig.json">
       <PackagePath>PedidosMobileApp.runtimeconfig.json</PackagePath>
-      <Modified>2025-07-12T13:57:57.765</Modified>
+      <Modified>2025-07-13T00:50:05.633</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PedidosMobileApp.dll">
       <PackagePath>PedidosMobileApp.dll</PackagePath>
-      <Modified>2025-07-13T00:20:49.776</Modified>
+      <Modified>2025-07-13T00:50:03.409</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PedidosMobileApp.exe</PackagePath>
-      <Modified>2025-07-13T00:20:49.784</Modified>
+      <Modified>2025-07-13T00:50:03.523</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -299,7 +299,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PedidosMobileApp.deps.json">
       <PackagePath>PedidosMobileApp.deps.json</PackagePath>
-      <Modified>2025-07-13T00:20:50.648</Modified>
+      <Modified>2025-07-13T00:50:05.578</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gilberto\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -381,6 +381,10 @@
       <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
       <Modified>2024-11-07T17:33:04.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gilberto\.nuget\packages\microsoft.win32.systemevents\9.0.7\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll">
+      <PackagePath>Microsoft.Win32.SystemEvents.dll</PackagePath>
+      <Modified>2025-06-16T18:56:00.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gilberto\.nuget\packages\microsoft.windowsappsdk\1.5.240802000\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
       <Modified>2024-07-31T03:45:50.000</Modified>
@@ -440,6 +444,14 @@
     <AppxPackagedFile Include="C:\Users\Gilberto\.nuget\packages\microsoft.windowsappsdk\1.5.240802000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-08-01T22:37:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gilberto\.nuget\packages\system.drawing.common\9.0.7\lib\net8.0\System.Drawing.Common.dll">
+      <PackagePath>System.Drawing.Common.dll</PackagePath>
+      <Modified>2025-06-17T01:22:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Gilberto\.nuget\packages\system.drawing.common\9.0.7\lib\net8.0\System.Private.Windows.Core.dll">
+      <PackagePath>System.Private.Windows.Core.dll</PackagePath>
+      <Modified>2025-06-17T01:22:10.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gilberto\.nuget\packages\microsoft.maui.controls.core\8.0.100\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>

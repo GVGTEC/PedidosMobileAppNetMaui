@@ -11,14 +11,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PackageName", "com.companyname.pedidosmobileapp")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.PublisherName", "User Name")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Name", "PedidosMobileApp")]
-[assembly: System.Reflection.AssemblyMetadataAttribute("Microsoft.Maui.ApplicationModel.AppInfo.Version", "1.0.0.1")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("PedidosMobileApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6b47ec31b8f359dc4101f2db0e1d243569908a3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adad9537ef338f1f301ebee50cc8c772de6f8531")]
 [assembly: System.Reflection.AssemblyProductAttribute("PedidosMobileApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PedidosMobileApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
