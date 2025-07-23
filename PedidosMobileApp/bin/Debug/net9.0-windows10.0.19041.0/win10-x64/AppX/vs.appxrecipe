@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-07-19T22:43:47.233</Modified>
+      <Modified>2025-07-22T20:45:17.005</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-07-19T22:43:46.972</Modified>
+      <Modified>2025-07-22T20:45:16.672</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\PedidosMobileApp.runtimeconfig.json">
       <PackagePath>PedidosMobileApp.runtimeconfig.json</PackagePath>
-      <Modified>2025-07-19T22:43:46.685</Modified>
+      <Modified>2025-07-22T20:45:16.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\PedidosMobileApp.dll">
       <PackagePath>PedidosMobileApp.dll</PackagePath>
-      <Modified>2025-07-19T22:43:45.400</Modified>
+      <Modified>2025-07-22T20:45:14.969</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PedidosMobileApp.exe</PackagePath>
-      <Modified>2025-07-19T22:43:45.423</Modified>
+      <Modified>2025-07-22T20:45:15.040</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -651,7 +651,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\PedidosMobileApp.deps.json">
       <PackagePath>PedidosMobileApp.deps.json</PackagePath>
-      <Modified>2025-07-19T22:43:46.617</Modified>
+      <Modified>2025-07-22T20:45:16.202</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Gilberto\.nuget\packages\microsoft.maui.controls.compatibility\9.0.90\lib\net9.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
