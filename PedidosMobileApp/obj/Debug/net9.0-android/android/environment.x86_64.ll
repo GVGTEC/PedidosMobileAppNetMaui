@@ -112,7 +112,7 @@ target triple = "x86_64-unknown-linux-android21"
 	i32 3, ; uint32_t package_naming_policy
 	i32 6, ; uint32_t environment_variable_count
 	i32 0, ; uint32_t system_property_count
-	i32 321, ; uint32_t number_of_assemblies_in_apk
+	i32 320, ; uint32_t number_of_assemblies_in_apk
 	i32 65, ; uint32_t bundled_assembly_name_width
 	i32 40, ; uint32_t number_of_dso_cache_entries
 	i32 0, ; uint32_t number_of_aot_cache_entries
@@ -1055,11 +1055,9 @@ target triple = "x86_64-unknown-linux-android21"
 @_XamarinAndroidBundledAssembly_name_13e_13e = internal dso_local global [65 x i8] zeroinitializer, align 16
 @_XamarinAndroidBundledAssembly_file_name_13f_13f = internal dso_local global [73 x i8] zeroinitializer, align 16
 @_XamarinAndroidBundledAssembly_name_13f_13f = internal dso_local global [65 x i8] zeroinitializer, align 16
-@_XamarinAndroidBundledAssembly_file_name_140_140 = internal dso_local global [73 x i8] zeroinitializer, align 16
-@_XamarinAndroidBundledAssembly_name_140_140 = internal dso_local global [65 x i8] zeroinitializer, align 16
 
 ; Bundled assembly name buffers, all 65 bytes long
-@bundled_assemblies = dso_local local_unnamed_addr global [321 x %struct.XamarinAndroidBundledAssembly] [
+@bundled_assemblies = dso_local local_unnamed_addr global [320 x %struct.XamarinAndroidBundledAssembly] [
 	%struct.XamarinAndroidBundledAssembly {
 		i32 -1, ; int32_t file_fd
 		ptr @_XamarinAndroidBundledAssembly_file_name_0_0, ; char* file_name
@@ -3939,16 +3937,7 @@ target triple = "x86_64-unknown-linux-android21"
 		ptr null, ; uint8_t* data
 		i32 65, ; uint32_t name_length
 		ptr @_XamarinAndroidBundledAssembly_name_13f_13f; char* name
-	}, ; 319
-	%struct.XamarinAndroidBundledAssembly {
-		i32 -1, ; int32_t file_fd
-		ptr @_XamarinAndroidBundledAssembly_file_name_140_140, ; char* file_name
-		i32 0, ; uint32_t data_offset
-		i32 0, ; uint32_t data_size
-		ptr null, ; uint8_t* data
-		i32 65, ; uint32_t name_length
-		ptr @_XamarinAndroidBundledAssembly_name_140_140; char* name
-	} ; 320
+	} ; 319
 ], align 16
 
 @assembly_store_bundled_assemblies = dso_local local_unnamed_addr global [0 x %struct.AssemblyStoreSingleAssemblyRuntimeData] zeroinitializer, align 8
@@ -3972,7 +3961,7 @@ target triple = "x86_64-unknown-linux-android21"
 @.env.5 = private unnamed_addr constant [42 x i8] c"Xamarin.Android.Net.AndroidMessageHandler\00", align 16
 
 ;ApplicationConfig
-@.ApplicationConfig.0_android_package_name = private unnamed_addr constant [33 x i8] c"com.companyname.pedidosmobileapp\00", align 16
+@.ApplicationConfig.0_android_package_name = private unnamed_addr constant [28 x i8] c"net.gvgtec.pedidosmobileapp\00", align 16
 
 ;DSOCacheEntry
 @.DSOCacheEntry.0_name = private unnamed_addr constant [34 x i8] c"libSystem.Globalization.Native.so\00", align 16

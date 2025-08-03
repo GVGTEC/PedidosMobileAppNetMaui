@@ -18,7 +18,6 @@ C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Release\net9.0-io
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Maui.Graphics.dll
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Release\net9.0-ios\iossimulator-x64\Microsoft.Win32.SystemEvents.dll
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Release\net9.0-ios\iossimulator-x64\System.Drawing.Common.dll
-C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Release\net9.0-ios\iossimulator-x64\System.Private.Windows.Core.dll
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Release\net9.0-ios\iossimulator-x64\ar\Microsoft.Maui.Controls.resources.dll
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Release\net9.0-ios\iossimulator-x64\ca\Microsoft.Maui.Controls.resources.dll
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\bin\Release\net9.0-ios\iossimulator-x64\cs\Microsoft.Maui.Controls.resources.dll
@@ -265,6 +264,9 @@ C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-io
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@2x.png
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\sp\splash_58C11A0A2CDF3C43117FC29EECA319E6FBFEFE150B9123BB20E86A467F499449@3x.png
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\mauisplash.stamp
+C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Resources\adicionar.png
+C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Resources\delete.png
+C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Resources\subtrair.png
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
@@ -277,9 +279,6 @@ C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-io
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
-C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Resources\delete.png
-C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Resources\adicionar.png
-C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\Resources\subtrair.png
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
 C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png

@@ -8,7 +8,7 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
-    <PackageIdentityName>com.companyname.pedidosmobileapp</PackageIdentityName>
+    <PackageIdentityName>net.gvgtec.pedidosmobileapp</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
@@ -477,9 +477,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-windows10.0.19041.0\win10-x64\R2R\System.Drawing.Common.dll">
       <PackagePath>System.Drawing.Common.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-windows10.0.19041.0\win10-x64\R2R\System.Private.Windows.Core.dll">
-      <PackagePath>System.Private.Windows.Core.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\1-Projetos\1-Sistemas\PedidosMobileApp\PedidosMobileApp\obj\Release\net9.0-windows10.0.19041.0\win10-x64\R2R\Microsoft.Web.WebView2.Core.Projection.dll">
       <PackagePath>Microsoft.Web.WebView2.Core.Projection.dll</PackagePath>

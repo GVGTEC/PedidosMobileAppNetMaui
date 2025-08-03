@@ -21,8 +21,10 @@
 
         <ListView x:Name="lst_pedido_itens">
             <ListView.Header>
-                <Grid Margin="10" ColumnDefinitions="2*, *, *, *, *, *, *">
-                    <Label Grid.Column="0" Text="Produto" />
+                <Grid Margin="10"
+                      ColumnDefinitions="2*, *, *, *, *, *, *"
+                      BackgroundColor="{StaticResource Gray100}">
+                    <Label Grid.Column="0" Text="Produto" Padding="5" />
                     <Label Grid.Column="1" Text="Qtd" />
                     <Label Grid.Column="2" Text="Preço" />
                     <Label Grid.Column="3" Text="Total" />
@@ -47,10 +49,10 @@
                                      Minimum="0"
                                      Increment="1"/>
                             -->
-                            
-                            <Button x:Name="btnSubtrairQuantidade" Grid.Row="0" Grid.Column="4" ImageSource="subtrair.png" Background="White" Clicked="btnSubtrairQuantidade_Clicked"/>
-                            <Button x:Name="btnAdicionarQuantidade" Grid.Row="0" Grid.Column="5" ImageSource="adicionar.png" Background="White" Clicked="btnAdicionarQuantidade_Clicked" />
-                            <Button x:Name="btnExcluirItemPedido" Grid.Row="0" Grid.Column="6" ImageSource="delete.png" Background="White" Clicked="btnExcluirItemPedido_Clicked" />
+
+                            <Button x:Name="btnSubtrairQuantidade" Grid.Row="0" Grid.Column="4" ImageSource="subtrair.png" Background="Cyan" Clicked="btnSubtrairQuantidade_Clicked"/>
+                            <Button x:Name="btnAdicionarQuantidade" Grid.Row="0" Grid.Column="5" ImageSource="adicionar.png" Background="Cyan" Clicked="btnAdicionarQuantidade_Clicked" />
+                            <Button x:Name="btnExcluirItemPedido" Grid.Row="0" Grid.Column="6" ImageSource="delete.png" Background="Cyan" Clicked="btnExcluirItemPedido_Clicked" />
                         </Grid>
                     </ViewCell>
                 </DataTemplate>
